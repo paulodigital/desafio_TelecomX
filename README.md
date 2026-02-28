@@ -148,7 +148,6 @@ Sugestões estratégicas baseadas nos achados da análise.
 - 🔢 **NumPy** – operações matemáticas e computação numérica
 - 📊 **Matplotlib** – visualização de dados
 - 📈 **Seaborn** – visualização estatística e gráficos avançados
-- 📓 **Jupyter Notebook** – desenvolvimento e documentação das análises
 - ☁️ **Google Colab** – ambiente de desenvolvimento em nuvem
 - ⚙️ **ETL** – extração, transformação e carga de dados
 - 📂 **Git & GitHub** – versionamento de código e portfólio
@@ -196,9 +195,9 @@ Essas evoluções ampliam o impacto do projeto, transformando a análise explora
 
 ## 👩‍💻 Autora
 
-Clea Marcia
+Paulo Terra
 
-Analista de Dados | Ciência de Dados
+Analista de TI | Gestor CPD | Infraestrutura e Projetos
 
 Projeto desenvolvido para fins de estudo (Alura One) e portfólio profissional.
 
