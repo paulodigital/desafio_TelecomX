@@ -193,7 +193,7 @@ Essas evoluções ampliam o impacto do projeto, transformando a análise explora
 
 
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
 Paulo Terra
 
